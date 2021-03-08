@@ -1,4 +1,4 @@
-package com.javatechie.aws.example;
+package com.aws.example;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

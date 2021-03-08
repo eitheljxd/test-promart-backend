@@ -1,4 +1,4 @@
-package com.javatechie.aws.example.cliente;
+package com.aws.example.cliente;
 
 public class Cliente {
 	private String id;

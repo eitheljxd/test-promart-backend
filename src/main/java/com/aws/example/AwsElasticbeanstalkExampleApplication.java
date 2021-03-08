@@ -1,4 +1,4 @@
-package com.javatechie.aws.example;
+package com.aws.example;
 
 
 
@@ -14,8 +14,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestTemplate;
 
-import com.javatechie.aws.example.Utils.Utils;
-import com.javatechie.aws.example.cliente.Cliente;
+import com.aws.example.Utils.Utils;
+import com.aws.example.cliente.Cliente;
 
 
 @SpringBootApplication

@@ -1,7 +1,7 @@
-package com.javatechie.aws.example.Utils;
+package com.aws.example.Utils;
 import org.json.JSONObject;
 
-import com.javatechie.aws.example.cliente.Cliente;
+import com.aws.example.cliente.Cliente;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
