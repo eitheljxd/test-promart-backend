@@ -1,0 +1,4 @@
+com\javatechie\aws\example\ServletInitializer.class
+com\javatechie\aws\example\Utils\Utils.class
+com\javatechie\aws\example\AwsElasticbeanstalkExampleApplication.class
+com\javatechie\aws\example\cliente\Cliente.class
