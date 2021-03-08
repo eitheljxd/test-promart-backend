@@ -33,6 +33,10 @@ public class AwsElasticbeanstalkExampleApplication {
 		List<Cliente> da = Utils.getClientes(answer);
 		return da;
 	}        
+	@GetMapping("/testingDeploy")
+	public String testingDeploy() {
+		return "Nueva version";
+	}     
 	@GetMapping("/kpideclientes")
 	public String getKpis() throws FileNotFoundException, InterruptedException, ExecutionException {
 		RestTemplate restTemplate = new RestTemplate();
